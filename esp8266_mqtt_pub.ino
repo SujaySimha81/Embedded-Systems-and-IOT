@@ -4,9 +4,9 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "redmi";
-const char* password = "prjk1234";
-const char* mqtt_server = "192.168.43.77";
+const char* ssid = "******";
+const char* password = "*******";
+const char* mqtt_server = "*****";
 const char* topic = "tv";
 
 WiFiClient espClient;
