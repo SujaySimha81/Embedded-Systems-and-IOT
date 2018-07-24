@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "Mohan";
-const char* password = "rekha123";
+const char* ssid = "*****";
+const char* password = "******";
  
 int ledPin = D5; 
 int led2Pin = 5;
